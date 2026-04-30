@@ -1,6 +1,9 @@
-# hospital-management-system
-java-based hospital management system with patient prescription module
+### Screenshot
+![App Screenshot](https://raw.githubusercontent.com/kkubrraa/hospital-management-system/main/Screenshots.jpeg)
 
+
+# hospital-management-system
+A java swing-based desktop application that allows doctors to create and manage patient preccriptions, including medications details , dosage, side effects and patient information. 
 
 ##  English
 This project is a desktop application developed using Java Swing for managing hospital prescriptions.
@@ -18,9 +21,11 @@ Doctors can enter patient details, select medications, define dosage, and includ
 - Provide instructions for medication usage
 - Generate and display formatted prescription output
 
-### Screenshot
-![App Screenshot](https://raw.githubusercontent.com/kkubrraa/hospital-management-system/main/Screenshots.jpeg)
-
+## How to Run
+1. Open the project in IntelliJ IDEA or NetBeans
+2. Build the project using Maven
+3. Run the Hospital.java file
+   
 ### How It Works
 When the application runs:
 - The doctor enters patient information
@@ -31,7 +36,7 @@ When the application runs:
 
 ### Technologies
 - Java
-- Swing (GUI)
+-  Java Swing
 - Maven
 
 -------
